@@ -25,7 +25,7 @@ public class Triangle {
                     "  gl_FragColor = vColor;" +
                     "}";
 
-    private final FloatBuffer vertexBuffer;
+    //private final FloatBuffer vertexBuffer;
     private final int mProgram;
     private int mPositionHandle;
     private int mColorHandle;
